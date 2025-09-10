@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>StoryMap – Projet Karangué</title>
+  <link rel="stylesheet"
+        href="https://cdn.knightlab.com/libs/storymapjs/latest/css/storymap.css">
+  <style>
+    body {
+      font-family: 'Segoe UI', Arial, sans-serif;
+      background-color: #f9f9f9;
+      margin: 0;
+      padding: 0;
+    }
+    h1 {
+      text-align: center;
+      color: #f58220;
+      margin: 20px 0;
+      font-size: 36px;
+      font-weight: bold;
+    }
+    #mapdiv {
+      border: 5px solid #448BCA;
+      border-radius: 16px;
+      box-shadow: 0 6px 25px rgba(0,0,0,0.25);
+      margin: 20px auto;
+      max-width: 95%;
+    }
+  </style>
+</head>
+<body>
+  <h1>🌍 Contexte et Impacts du Projet Karangué au Sénégal</h1>
+  <div id="mapdiv" style="width: 100%; height: 650px;"></div>
+
+  <script src="https://cdn.knightlab.com/libs/storymapjs/latest/js/storymap-min.js"></script>
+  <script>
+    // Charger le JSON modernisé
+    var storymap_data = "Projet_Karangue_StoryMap_Complete.json";
+
+    // Options avec carte satellite
+    var storymap_options = {
+      language: "fr",
+      map_type: "satellite",
+      calculate_zoom: true
+    };
+
+    var storymap = new KLStoryMap.StoryMap('mapdiv', storymap_data, storymap_options);
+
+    // Mise à jour responsive
+    window.onresize = function() {
+      storymap.updateDisplay();
+    };
+  </script>
+</body>
+</html>
