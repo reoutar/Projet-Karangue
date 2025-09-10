@@ -1,0 +1,195 @@
+{
+  "storymap": {
+    "language": "fr",
+    "map_type": "stamen:toner-lite",
+    "slides": [
+      {
+        "text": {
+          "headline": "Projet Karangué – Sénégal",
+          "text": "<h2 style='color:#f58220'>Projet Karangué</h2><p><b>Objectif :</b> Renforcer la prévention, la protection et l’autonomisation des femmes, des jeunes et des communautés.</p><p><b>Budget global :</b> <span style='color:#448BCA'>675 287 $</span></p><p><b>Durée :</b> 2025 (6 mois pour les OSC, 1 an pour le Ministère).</p>"
+        },
+        "media": {
+          "url": "images/52844910334_dd288fc399.jpg",
+          "caption": "Présentation générale du projet Karangué – UN Women"
+        },
+        "location": {
+          "name": "Sénégal",
+          "lat": 14.5,
+          "lon": -14.5,
+          "zoom": 6
+        },
+        "date": "2025"
+      },
+      {
+        "text": {
+          "headline": "CLVF – Dakar",
+          "text": "<b>Montant :</b> 40 000 $<br>📢 Prévention & sensibilisation<br>🏥 Protection & prise en charge<br>⚖️ Plaidoyer institutionnel"
+        },
+        "media": {
+          "url": "images/52845116245_5887b49dac.jpg",
+          "caption": "Atelier CLVF à Dakar"
+        },
+        "location": {
+          "name": "Dakar, Sénégal",
+          "lat": 14.7167,
+          "lon": -17.4677,
+          "zoom": 10
+        },
+        "date": "2025"
+      },
+      {
+        "text": {
+          "headline": "ONG La Lumière – Kédougou & Tambacounda",
+          "text": "<b>Montant :</b> 80 000 $<br>⚖️ Droits & plaidoyer<br>🎓 Éducation & formation<br>🏥 Santé & protection sociale<br>💪 Genre & autonomisation<br>🌱 Économie solidaire & résilience<br>🌍 Environnement & développement durable"
+        },
+        "media": {
+          "url": "images/52845169998_985cd3ccd8.jpg",
+          "caption": "Femmes et jeunes en formation – Kédougou"
+        },
+        "location": {
+          "name": "Kédougou, Sénégal",
+          "lat": 12.5606,
+          "lon": -12.1743,
+          "zoom": 9
+        },
+        "date": "2025"
+      },
+      {
+        "text": {
+          "headline": "ONG FODDE – Kolda",
+          "text": "<b>Montant :</b> 40 000 $<br>⚖️ Genre & équité sociale<br>🌍 Environnement<br>🤝 Solidarité & gouvernance inclusive"
+        },
+        "media": {
+          "url": "images/52845170138_5010704050.jpg",
+          "caption": "Session communautaire – Kolda"
+        },
+        "location": {
+          "name": "Kolda, Sénégal",
+          "lat": 12.8833,
+          "lon": -14.95,
+          "zoom": 9
+        },
+        "date": "2025"
+      },
+      {
+        "text": {
+          "headline": "PFPC – Sédhiou & Ziguinchor",
+          "text": "<b>Montant :</b> 80 000 $<br>☮️ Paix & sécurité<br>🏛️ Renforcement institutionnel<br>👩‍👧 Lutte contre les violences faites aux femmes et aux filles"
+        },
+        "media": {
+          "url": "images/52845170463_5cea3a3972.jpg",
+          "caption": "Rencontre des femmes pour la paix – Ziguinchor"
+        },
+        "location": {
+          "name": "Ziguinchor, Sénégal",
+          "lat": 12.5667,
+          "lon": -16.2667,
+          "zoom": 9
+        },
+        "date": "2025"
+      },
+      {
+        "text": {
+          "headline": "ONG 3D – Matam",
+          "text": "<b>Montant :</b> 40 000 $<br>⚖️ Droits humains & gouvernance<br>🗳️ Gouvernance locale et participation citoyenne<br>🤝 Inclusion sociale<br>🌍 Sécurité alimentaire & environnement"
+        },
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Matam.jpg",
+          "caption": "Participation citoyenne – Matam"
+        },
+        "location": {
+          "name": "Matam, Sénégal",
+          "lat": 15.6556,
+          "lon": -13.2553,
+          "zoom": 9
+        },
+        "date": "2025"
+      },
+      {
+        "text": {
+          "headline": "Ministère de la Famille et des Solidarités – Dakar",
+          "text": "<b>Montant :</b> 315 287 $<br>🏛️ Appui à la coordination : normatif, accès aux services, normes sociales<br>💻 Équipements"
+        },
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Dakar_view.jpg",
+          "caption": "Ministère de la Famille et des Solidarités – Dakar"
+        },
+        "location": {
+          "name": "Dakar, Sénégal",
+          "lat": 14.7167,
+          "lon": -17.4677,
+          "zoom": 10
+        },
+        "date": "2025"
+      },
+      {
+        "text": {
+          "headline": "RESPECO – Dakar",
+          "text": "<b>Montant :</b> Non indiqué<br>☮️ Paix, sécurité et cohésion sociale<br>⚖️ Égalité de genre & lutte contre les VBG<br>🤝 Participation citoyenne et autonomisation communautaire"
+        },
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Dakar_view.jpg",
+          "caption": "Organisation RESPECO"
+        },
+        "location": {
+          "name": "Dakar, Sénégal",
+          "lat": 14.7167,
+          "lon": -17.4677,
+          "zoom": 10
+        },
+        "date": "2025"
+      },
+      {
+        "text": {
+          "headline": "ONG RAES – Dakar",
+          "text": "<b>Montant :</b> 30 000 $<br>🎓 Éducation & communication sociale<br>🤝 Développement communautaire & inclusion sociale"
+        },
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Dakar_view.jpg",
+          "caption": "Organisation RAES"
+        },
+        "location": {
+          "name": "Dakar, Sénégal",
+          "lat": 14.7167,
+          "lon": -17.4677,
+          "zoom": 10
+        },
+        "date": "2025"
+      },
+      {
+        "text": {
+          "headline": "E‑Justice Pathway – Dakar",
+          "text": "<b>Montant :</b> 50 000 $<br>⚖️ Innovation numérique pour la justice"
+        },
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Dakar_view.jpg",
+          "caption": "Organisation E‑Justice Pathway"
+        },
+        "location": {
+          "name": "Dakar, Sénégal",
+          "lat": 14.7167,
+          "lon": -17.4677,
+          "zoom": 10
+        },
+        "date": "2025"
+      },
+      {
+        "text": {
+          "headline": "CNDH – Dakar",
+          "text": "<b>Montant :</b> 50 000 $<br>🛡️ Droits humains & protection<br>⚖️ Égalité de genre & lutte contre les discriminations<br>🤝 Conseil et médiation institutionnelle"
+        },
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Dakar_view.jpg",
+          "caption": "Conseil national des droits humains"
+        },
+        "location": {
+          "name": "Dakar, Sénégal",
+          "lat": 14.7167,
+          "lon": -17.4677,
+          "zoom": 10
+        },
+        "date": "2025"
+      }
+    ]
+  }
+}
