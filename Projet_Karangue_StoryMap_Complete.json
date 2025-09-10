@@ -12,7 +12,7 @@
           "url": "images/52844910334_dd288fc399.jpg",
           "caption": "Présentation générale du projet Karangué – UN Women"
         },
-        "location": {"name": "Sénégal", "lat": 14.5, "lon": -14.5, "zoom": 6},
+        "location": { "name": "Sénégal", "lat": 14.5, "lon": -14.5, "zoom": 6 },
         "date": "2025"
       },
       {
@@ -24,7 +24,7 @@
           "url": "images/52845116245_5887b49dac.jpg",
           "caption": "Atelier CLVF à Dakar"
         },
-        "location": {"name": "Dakar, Sénégal", "lat": 14.7167, "lon": -17.4677, "zoom": 10},
+        "location": { "name": "Dakar, Sénégal", "lat": 14.7167, "lon": -17.4677, "zoom": 10 },
         "date": "2025"
       },
       {
@@ -36,7 +36,7 @@
           "url": "images/52845169998_985cd3ccd8.jpg",
           "caption": "Femmes et jeunes en formation – Kédougou"
         },
-        "location": {"name": "Kédougou, Sénégal", "lat": 12.5606, "lon": -12.1743, "zoom": 9},
+        "location": { "name": "Kédougou, Sénégal", "lat": 12.5606, "lon": -12.1743, "zoom": 9 },
         "date": "2025"
       },
       {
@@ -48,7 +48,7 @@
           "url": "images/52845170138_5010704050.jpg",
           "caption": "Session communautaire – Kolda"
         },
-        "location": {"name": "Kolda, Sénégal", "lat": 12.8833, "lon": -14.95, "zoom": 9},
+        "location": { "name": "Kolda, Sénégal", "lat": 12.8833, "lon": -14.95, "zoom": 9 },
         "date": "2025"
       },
       {
@@ -60,7 +60,7 @@
           "url": "images/52845170463_5cea3a3972.jpg",
           "caption": "Rencontre des femmes pour la paix – Ziguinchor"
         },
-        "location": {"name": "Ziguinchor, Sénégal", "lat": 12.5667, "lon": -16.2667, "zoom": 9},
+        "location": { "name": "Ziguinchor, Sénégal", "lat": 12.5667, "lon": -16.2667, "zoom": 9 },
         "date": "2025"
       },
       {
@@ -72,7 +72,7 @@
           "url": "images/52617709195_c2cf2960e0.jpg",
           "caption": "Initiatives citoyennes – Matam"
         },
-        "location": {"name": "Matam, Sénégal", "lat": 15.6556, "lon": -13.2553, "zoom": 9},
+        "location": { "name": "Matam, Sénégal", "lat": 15.6556, "lon": -13.2553, "zoom": 9 },
         "date": "2025"
       },
       {
@@ -84,7 +84,7 @@
           "url": "images/52866897836_55b4d58dd9.jpg",
           "caption": "Partenariat institutionnel – Dakar"
         },
-        "location": {"name": "Dakar, Sénégal", "lat": 14.7167, "lon": -17.4677, "zoom": 10},
+        "location": { "name": "Dakar, Sénégal", "lat": 14.7167, "lon": -17.4677, "zoom": 10 },
         "date": "2025"
       },
       {
@@ -96,7 +96,7 @@
           "url": "images/52867064169_a02b9d3fbe.jpg",
           "caption": "Rencontre RESPECO – Dakar"
         },
-        "location": {"name": "Dakar, Sénégal", "lat": 14.7167, "lon": -17.4677, "zoom": 10},
+        "location": { "name": "Dakar, Sénégal", "lat": 14.7167, "lon": -17.4677, "zoom": 10 },
         "date": "2025"
       },
       {
@@ -108,7 +108,7 @@
           "url": "images/52867340303_49dcac1f51.jpg",
           "caption": "Activité éducative RAES – Dakar"
         },
-        "location": {"name": "Dakar, Sénégal", "lat": 14.7167, "lon": -17.4677, "zoom": 10},
+        "location": { "name": "Dakar, Sénégal", "lat": 14.7167, "lon": -17.4677, "zoom": 10 },
         "date": "2025"
       },
       {
@@ -120,7 +120,7 @@
           "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Dakar_view.jpg",
           "caption": "Organisation E-Justice Pathway"
         },
-        "location": {"name": "Dakar, Sénégal", "lat": 14.7167, "lon": -17.4677, "zoom": 10},
+        "location": { "name": "Dakar, Sénégal", "lat": 14.7167, "lon": -17.4677, "zoom": 10 },
         "date": "2025"
       },
       {
@@ -132,7 +132,7 @@
           "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Dakar_view.jpg",
           "caption": "Conseil national des droits humains"
         },
-        "location": {"name": "Dakar, Sénégal", "lat": 14.7167, "lon": -17.4677, "zoom": 10},
+        "location": { "name": "Dakar, Sénégal", "lat": 14.7167, "lon": -17.4677, "zoom": 10 },
         "date": "2025"
       }
     ]
