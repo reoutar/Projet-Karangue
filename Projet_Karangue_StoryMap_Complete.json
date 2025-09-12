@@ -117,7 +117,7 @@
           "text": "<p style='font-size:20px;'><b style='color:#f58220;'>Montant :</b> <span style='font-size:28px; font-weight:bold; color:#448BCA;'>50 000 $</span></p><p>⚖️ Innovation numérique pour la justice</p>"
         },
         "media": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Dakar_view.jpg",
+          "url": "images/Photo_Ejustice.png",
           "caption": "Organisation E-Justice Pathway"
         },
         "location": { "name": "Dakar, Sénégal", "lat": 14.7167, "lon": -17.4677, "zoom": 10 },
