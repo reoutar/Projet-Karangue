@@ -6,34 +6,34 @@
       {
         "text": {
           "headline": "<span style='color:#f58220; font-size:36px;'>Projet Karangué – Sénégal</span>",
-          "text": "<p style='font-size:18px;'>🎯 <b style='color:#448BCA;'>Objectif :</b> Renforcer la prévention, la protection et l’autonomisation des femmes, des jeunes et des communautés.</p><p style='font-size:20px;'>💰 <b style='color:#448BCA; font-size:28px;'>Budget global :</b> <span style='color:#f58220; font-weight:bold; font-size:32px;'>675 287 $</span></p><p style='font-size:18px;'>⏳ <b style='color:#448BCA;'>Durée :</b> 2025 (6 mois pour les OSC, 1 an pour le Ministère).</p>"
+          "text": "<p style='font-size:18px;'><b style='color:#448BCA;'>Objectif :</b> Renforcer la prévention, la protection et l’autonomisation des femmes, des jeunes et des communautés.</p><p style='font-size:20px;'><b style='color:#448BCA;'>Budget global :</b> <span style='color:#f58220; font-weight:bold; font-size:32px;'>675 287 $</span></p><p style='font-size:18px;'><b style='color:#448BCA;'>Durée :</b> 2025 (6 mois pour les OSC, 1 an pour le Ministère).</p>"
         },
-        "media": { "url": "images/photo3.jpg", "caption": "Présentation générale du projet Karangué – UN Women" },
+        "media": { "url": "images/photo10.gif", "caption": "Présentation générale du projet Karangué – UN Women" },
         "location": { "name": "Sénégal", "lat": 14.5, "lon": -14.5, "zoom": 6 },
         "date": "2025"
       },
       {
         "text": {
           "headline": "<span style='color:#448BCA; font-size:30px;'>CLVF – Dakar</span>",
-          "text": "<p style='font-size:20px;'>💰 <b style='color:#f58220;'>Montant :</b> <span style='font-size:28px; font-weight:bold; color:#448BCA;'>40 000 $</span></p><p>📢 Prévention & sensibilisation</p><p>🏥 Protection & prise en charge</p><p>⚖️ Plaidoyer institutionnel</p>"
+          "text": "💰 Montant : 40 000 $<br>📢 Prévention & sensibilisation<br>🏥 Protection & prise en charge<br>⚖️ Plaidoyer institutionnel"
         },
-        "media": { "url": "images/cndhphoto12.png", "caption": "Atelier CLVF à Dakar" },
+        "media": { "url": "images/photo3.jpg", "caption": "Atelier CLVF à Dakar" },
         "location": { "name": "Dakar, Sénégal", "lat": 14.7167, "lon": -17.4677, "zoom": 10 },
         "date": "2025"
       },
       {
         "text": {
           "headline": "<span style='color:#448BCA; font-size:30px;'>ONG La Lumière – Kédougou & Tambacounda</span>",
-          "text": "<p style='font-size:20px;'>💰 <b style='color:#f58220;'>Montant :</b> <span style='font-size:28px; font-weight:bold; color:#448BCA;'>80 000 $</span></p><p>⚖️ Droits & plaidoyer</p><p>🎓 Éducation & formation</p><p>🏥 Santé & protection sociale</p><p>💪 Genre & autonomisation</p><p>🌱 Économie solidaire & résilience</p><p>🌍 Environnement & développement durable</p>"
+          "text": "💰 Montant : 80 000 $<br>⚖️ Droits & plaidoyer<br>🎓 Éducation & formation<br>🏥 Santé & protection sociale<br>💪 Genre & autonomisation<br>🌱 Économie solidaire & résilience<br>🌍 Environnement & développement durable"
         },
-        "media": { "url": "images/photo6.jpg", "caption": "Formation des femmes et jeunes – Kédougou" },
+        "media": { "url": "images/photo6.jpg", "caption": "Femmes et jeunes en formation – Kédougou" },
         "location": { "name": "Kédougou, Sénégal", "lat": 12.5606, "lon": -12.1743, "zoom": 9 },
         "date": "2025"
       },
       {
         "text": {
           "headline": "<span style='color:#448BCA; font-size:30px;'>ONG FODDE – Kolda</span>",
-          "text": "<p style='font-size:20px;'>💰 <b style='color:#f58220;'>Montant :</b> <span style='font-size:28px; font-weight:bold; color:#448BCA;'>40 000 $</span></p><p>⚖️ Genre & équité sociale</p><p>🌍 Environnement</p><p>🤝 Solidarité & gouvernance inclusive</p>"
+          "text": "💰 Montant : 40 000 $<br>⚖️ Genre & équité sociale<br>🌍 Environnement<br>🤝 Solidarité & gouvernance inclusive"
         },
         "media": { "url": "images/photo4.jpg", "caption": "Session communautaire – Kolda" },
         "location": { "name": "Kolda, Sénégal", "lat": 12.8833, "lon": -14.95, "zoom": 9 },
@@ -42,7 +42,7 @@
       {
         "text": {
           "headline": "<span style='color:#448BCA; font-size:30px;'>PFPC – Sédhiou & Ziguinchor</span>",
-          "text": "<p style='font-size:20px;'>💰 <b style='color:#f58220;'>Montant :</b> <span style='font-size:28px; font-weight:bold; color:#448BCA;'>80 000 $</span></p><p>☮️ Paix & sécurité</p><p>🏛️ Renforcement institutionnel</p><p>👩‍👧 Lutte contre les violences faites aux femmes et aux filles</p>"
+          "text": "💰 Montant : 80 000 $<br>☮️ Paix & sécurité<br>🏛️ Renforcement institutionnel<br>👩‍👧 Lutte contre les violences faites aux femmes et aux filles"
         },
         "media": { "url": "images/Sedhiouphoto1.jpg", "caption": "Sensibilisation communautaire à Sédhiou" },
         "location": { "name": "Sédhiou, Sénégal", "lat": 12.7, "lon": -15.55, "zoom": 10 },
@@ -51,7 +51,7 @@
       {
         "text": {
           "headline": "<span style='color:#448BCA; font-size:30px;'>ONG 3D – Matam</span>",
-          "text": "<p style='font-size:20px;'>💰 <b style='color:#f58220;'>Montant :</b> <span style='font-size:28px; font-weight:bold; color:#448BCA;'>40 000 $</span></p><p>⚖️ Droits humains & gouvernance</p><p>🗳️ Gouvernance locale</p><p>🤝 Inclusion sociale</p><p>🌍 Sécurité alimentaire & environnement</p>"
+          "text": "💰 Montant : 40 000 $<br>⚖️ Droits humains<br>🗳️ Gouvernance locale<br>🤝 Inclusion<br>🌾 Sécurité alimentaire<br>🌍 Environnement"
         },
         "media": { "url": "images/photo9.jpg", "caption": "Initiatives citoyennes – Matam" },
         "location": { "name": "Matam, Sénégal", "lat": 15.6556, "lon": -13.2553, "zoom": 9 },
@@ -60,7 +60,7 @@
       {
         "text": {
           "headline": "<span style='color:#448BCA; font-size:30px;'>Ministère de la Famille et des Solidarités – Dakar</span>",
-          "text": "<p style='font-size:20px;'>💰 <b style='color:#f58220;'>Montant :</b> <span style='font-size:28px; font-weight:bold; color:#448BCA;'>315 287 $</span></p><p>🏛️ Appui à la coordination : normatif, services, normes sociales</p><p>💻 Équipements</p>"
+          "text": "💰 Montant : 315 287 $<br>🏛️ Appui à la coordination : normatif, services, normes sociales<br>💻 Équipements"
         },
         "media": { "url": "images/ministerefamillephoto14.jpg", "caption": "Partenariat institutionnel – Dakar" },
         "location": { "name": "Dakar, Sénégal", "lat": 14.7167, "lon": -17.4677, "zoom": 10 },
@@ -69,7 +69,7 @@
       {
         "text": {
           "headline": "<span style='color:#448BCA; font-size:30px;'>REPSFECO – Dakar</span>",
-          "text": "<p style='font-size:20px;'>💰 <b style='color:#f58220;'>Montant :</b> <span style='font-size:28px; font-weight:bold; color:#448BCA;'>30 000 $</span></p><p>👨 Masculinité positive</p><p>☮️ Paix, sécurité et cohésion sociale</p><p>⚖️ Égalité de genre & lutte contre les VBG</p><p>🤝 Participation citoyenne</p>"
+          "text": "💰 Montant : 30 000 $<br>👨 Masculinité positive<br>☮️ Paix, sécurité et cohésion sociale<br>⚖️ Égalité de genre & lutte contre les VBG<br>🤝 Participation citoyenne"
         },
         "media": { "url": "images/repsfeco_photo11.jpg", "caption": "Rencontre REPSFECO – Dakar" },
         "location": { "name": "Dakar, Sénégal", "lat": 14.7167, "lon": -17.4677, "zoom": 10 },
@@ -78,13 +78,30 @@
       {
         "text": {
           "headline": "<span style='color:#448BCA; font-size:30px;'>ONG RAES – Dakar</span>",
-          "text": "<p style='font-size:20px;'>💰 <b style='color:#f58220;'>Montant :</b> <span style='font-size:28px; font-weight:bold; color:#448BCA;'>30 000 $</span></p><p>🎓 Éducation & communication sociale</p><p>🤝 Développement communautaire</p>"
+          "text": "💰 Montant : 30 000 $<br>🎓 Éducation & communication sociale<br>🤝 Développement communautaire et inclusion sociale"
         },
         "media": { "url": "images/photo8.jpg", "caption": "Activité éducative RAES – Dakar" },
+        "location": { "name": "Dakar, Sénégal", "lat": 14.7167, "lon": -17.4677, "zoom": 10 },
+        "date": "2025"
+      },
+      {
+        "text": {
+          "headline": "<span style='color:#448BCA; font-size:30px;'>E-Justice Pathway – Dakar</span>",
+          "text": "💰 Montant : 50 000 $"
+        },
+        "media": { "url": "images/ejusticephoto13.jpg", "caption": "Organisation E-Justice Pathway – Dakar" },
+        "location": { "name": "Dakar, Sénégal", "lat": 14.7167, "lon": -17.4677, "zoom": 10 },
+        "date": "2025"
+      },
+      {
+        "text": {
+          "headline": "<span style='color:#448BCA; font-size:30px;'>CNDH – Dakar</span>",
+          "text": "💰 Montant : 50 000 $<br>🛡️ Protection et promotion des droits humains<br>⚖️ Égalité de genre et lutte contre les discriminations<br>🏛️ Conseil, veille et médiation institutionnelle"
+        },
+        "media": { "url": "images/cndhphoto12.png", "caption": "Conseil national des droits humains – Dakar" },
         "location": { "name": "Dakar, Sénégal", "lat": 14.7167, "lon": -17.4677, "zoom": 10 },
         "date": "2025"
       }
     ]
   }
 }
-
