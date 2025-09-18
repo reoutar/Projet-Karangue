@@ -5,7 +5,7 @@
     "slides": [
       {
         "text": {
-          "headline": "<span style='color:#f58220; font-size:35px; font-weight:bold;'>🌍 Projet Karangué – Sénégal</span>",
+          "headline": "<span style='color:#f58220; font-size:30px; font-weight:bold;'>🌍 Projet Karangué – Sénégal</span>",
           "text": "<p style='font-size:20px;'><b style='color:#448BCA;'>Objectif :</b> Renforcer la prévention, la protection et l’autonomisation des femmes, des jeunes et des communautés.</p><p style='font-size:22px;'><b style='color:#448BCA;'>Budget global :</b> <span style='color:#f58220; font-weight:bold; font-size:34px;'>675 287 $</span></p><p style='font-size:20px;'><b style='color:#448BCA;'>Durée :</b> <span style='color:#f58220; font-size:28px; font-weight:bold;'>2025</span> (6 mois pour les OSC, 1 an pour le Ministère)</p>"
         },
         "media": { "url": "images/photo.jpg", "caption": "Répresentante Résidente ONU Femmes Sénégal" },
